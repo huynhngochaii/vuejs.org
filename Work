@@ -1,0 +1,8 @@
+<script>
+var hai ={
+name : 'HaiDepTrai'
+age:16
+handsome:true
+console.log(hai.age)
+}
+/<scrip>
